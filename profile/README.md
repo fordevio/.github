@@ -19,5 +19,16 @@ If you're currently relying on public cloud platforms, we can help you transitio
 ### 24/7 support
 We provide 24/7 support for your on-premises and hybrid AI infrastructure. Our dedicated team of experts is always available to monitor, troubleshoot, and resolve any issues, ensuring maximum uptime and performance. Whether it's maintaining your hardware, optimizing your open-source software stack, or addressing any operational challenges, we’re here to provide prompt and effective solutions around the clock.
 
+### Learn more
+Visit [Our website](https://fordevio.me)
+
 ## Help us understand your challenges with cloud costs and AI model deployment. 
 [Take Survey](https://docs.google.com/forms/d/e/1FAIpQLSfrd-ORmow81mvEOw4WQIXjrCTJ9qxU-vm-oO1MLsFWSWlEbg/viewform)
+
+## Our blog series 
+[blogs](https://fordevio.me/blogs)
+
+## Follow
+
+- [Linked In](https://www.linkedin.com/company/fordevio)
+- [Youtube](https://www.youtube.com/@forDEV-io)
